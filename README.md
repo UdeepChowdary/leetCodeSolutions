@@ -12,9 +12,15 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
