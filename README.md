@@ -28,6 +28,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | ------- |
 | [0011-container-with-most-water](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [1480-running-sum-of-1d-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
