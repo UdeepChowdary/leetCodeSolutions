@@ -22,6 +22,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -34,6 +35,7 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
