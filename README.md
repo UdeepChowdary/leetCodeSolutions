@@ -12,6 +12,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Simulation
@@ -56,4 +57,12 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
