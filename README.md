@@ -29,6 +29,7 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1672-richest-customer-wealth) |
@@ -36,6 +37,7 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
