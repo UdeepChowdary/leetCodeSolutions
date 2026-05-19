@@ -25,6 +25,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | ------- |
 | [0125-valid-palindrome](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +69,8 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
