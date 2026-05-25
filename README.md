@@ -12,6 +12,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
