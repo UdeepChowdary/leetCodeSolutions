@@ -12,6 +12,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -73,4 +74,8 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
