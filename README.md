@@ -31,6 +31,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
@@ -57,6 +58,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
