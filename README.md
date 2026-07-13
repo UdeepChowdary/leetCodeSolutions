@@ -17,6 +17,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0069-sqrtx](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [2169-count-operations-to-obtain-zero](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Simulation
 |  |
@@ -74,6 +75,7 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,4 +84,12 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
