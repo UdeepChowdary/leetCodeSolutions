@@ -18,11 +18,13 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
 |  |
@@ -40,6 +42,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [1480-running-sum-of-1d-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -81,6 +84,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | ------- |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +103,8 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
