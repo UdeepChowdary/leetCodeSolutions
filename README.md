@@ -32,6 +32,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0125-valid-palindrome](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1678-goal-parser-interpretation) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0001-two-sum](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
