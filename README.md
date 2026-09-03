@@ -15,6 +15,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0007-reverse-integer](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
@@ -32,6 +33,7 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0771-jewels-and-stones) |
