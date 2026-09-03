@@ -21,6 +21,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1837-sum-of-digits-in-base-k](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Simulation
 |  |
