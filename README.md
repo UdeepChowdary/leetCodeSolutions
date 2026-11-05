@@ -29,6 +29,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
 |  |
@@ -53,6 +54,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1929-concatenation-of-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
