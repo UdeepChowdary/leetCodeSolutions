@@ -27,6 +27,7 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1920-build-array-from-permutation) |
@@ -49,6 +50,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0011-container-with-most-water](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [1389-create-target-array-in-the-given-order](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1672-richest-customer-wealth) |
