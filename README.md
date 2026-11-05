@@ -50,6 +50,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0011-container-with-most-water](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0283-move-zeroes) |
 | [1389-create-target-array-in-the-given-order](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -87,12 +88,14 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
@@ -127,4 +130,16 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
