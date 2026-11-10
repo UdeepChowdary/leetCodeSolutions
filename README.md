@@ -107,6 +107,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -144,4 +145,8 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
