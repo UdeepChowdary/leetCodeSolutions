@@ -72,6 +72,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0125-valid-palindrome](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -149,4 +150,5 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
