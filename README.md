@@ -109,6 +109,7 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -150,5 +151,6 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
