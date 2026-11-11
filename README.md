@@ -16,6 +16,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0009-palindrome-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
@@ -71,6 +72,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0027-remove-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
@@ -94,6 +96,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0001-two-sum](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0771-jewels-and-stones) |
@@ -160,4 +163,5 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
