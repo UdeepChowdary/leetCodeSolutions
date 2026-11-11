@@ -28,6 +28,7 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -55,6 +56,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
@@ -164,4 +166,8 @@ solved in Java while practicing Data Structures and Algorithms.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
