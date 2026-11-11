@@ -141,6 +141,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
@@ -169,5 +170,10 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
