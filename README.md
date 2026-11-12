@@ -53,6 +53,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0011-container-with-most-water](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0283-move-zeroes) |
@@ -133,6 +134,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -146,6 +148,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
