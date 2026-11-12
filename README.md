@@ -57,6 +57,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0169-majority-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -87,6 +88,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
@@ -102,6 +104,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0202-happy-number](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
