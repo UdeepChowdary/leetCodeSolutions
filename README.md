@@ -45,6 +45,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1108-defanging-an-ip-address) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1678-goal-parser-interpretation](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1678-goal-parser-interpretation) |
 ## Array
 |  |
@@ -60,6 +61,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0560-subarray-sum-equals-k](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0682-baseball-game) |
 | [1219-path-with-maximum-gold](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1219-path-with-maximum-gold) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1389-create-target-array-in-the-given-order](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
@@ -118,6 +120,7 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0231-power-of-two) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -188,4 +191,5 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [1219-path-with-maximum-gold](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1219-path-with-maximum-gold) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
