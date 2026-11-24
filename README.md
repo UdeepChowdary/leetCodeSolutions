@@ -59,6 +59,7 @@ solved in Java while practicing Data Structures and Algorithms.
 | [0283-move-zeroes](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0682-baseball-game) |
+| [1219-path-with-maximum-gold](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1219-path-with-maximum-gold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
@@ -94,6 +95,7 @@ solved in Java while practicing Data Structures and Algorithms.
 ## Matrix
 |  |
 | ------- |
+| [1219-path-with-maximum-gold](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1219-path-with-maximum-gold) |
 | [1672-richest-customer-wealth](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -182,4 +184,8 @@ solved in Java while practicing Data Structures and Algorithms.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
+## Backtracking
+|  |
+| ------- |
+| [1219-path-with-maximum-gold](https://github.com/UdeepChowdary/leetCodeSolutions/tree/master/1219-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
